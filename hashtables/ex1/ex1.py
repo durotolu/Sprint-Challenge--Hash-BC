@@ -26,7 +26,6 @@ def get_indices_of_item_weights(weights, length, limit):
             indices.sort(reverse=True)
             break
 
-    print(27, indices)
     return indices
 
 
